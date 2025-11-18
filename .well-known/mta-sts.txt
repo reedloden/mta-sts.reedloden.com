@@ -4,4 +4,5 @@ mx: aspmx.l.google.com
 mx: *.aspmx.l.google.com
 mx: aspmx2.googlemail.com
 mx: aspmx3.googlemail.com
+mx: smtp.google.com
 max_age: 31557600
